@@ -1,0 +1,9 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "si_mob_mod:item/example_item",
+    "layer1": "si_mob_mod:item/example_item",
+    "layer2": "si_mob_mod:item/example_item",
+    "layer3": "si_mob_mod:item/example_item"
+  }
+}

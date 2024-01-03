@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "CCD",
+        "CL "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:spyglass"
+        },
+        "C": {
+            "item": "minecraft:cobblestone"
+        },
+        "D": {
+            "item": "minecraft:dispenser"
+        },
+        "L": {
+            "item": "minecraft:lever"
+        }
+    },
+    "result": {
+      "item": "si_mob_mod:example_item",
+      "count": 1
+    },
+    "group": "crafting ingredients"
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "si_mob_mod:block/example_block"
+    }
+  }
+}
